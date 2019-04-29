@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autocom-222515",
+  "private_key_id": "14b785ff462a231b244acd46ee08f8eb791fd4c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5jI4Ymw2enj8L\naV4Gj+Q2d22w7I8ANfHy5x2/9G7KkvLG4lVB1+IbXyo65yQakAcNBVcDs8YXHE2i\nVpVMdFW097ImvuUyhwsLc2z+4PA18krGIRs8t48dYRSQhrapuXxCzfqVksQNQreP\nLwd+aXNPFthiB/5Rd9FAOWt7d1N3yA95zH47Dp6EyDl0DenZVW716uZp9m/ZcQ9I\nmnUUZNXPy4xXBqp2+tD7bEKn/5z1yzSJhIz9jBLkR1GBBa5gFtuWHkAa7J3cBw91\nktob9rMSjM9HgY7Y5GDXRbeOi+WZFpzGrDzeyJmBWSobgtMzbPKgfKN9o9PxprCp\nO/T+u4G7AgMBAAECggEACsS9BHGPP0ro1sU1N0VHld+lhpScEgOPeKzwHZFWkrwn\nieJd11XrofIKdeOvRTlhp2BNdgILd5Dlcov62zaPONL9TGFc1OtgeTgoNbyhREg9\nDbWjKolurWJSerbOyBfjPc9NgTvE1A4wsAcnNK9zCT6GrV3QZTMCems6sS4yMmvZ\nG61SioKXgbYIELnAy72VRg06Y8Zsc1dGn+QKfynNQUl7jpkrDzpDee2WgSIfVkOA\nZhu9+twyajDq7c87OJAtXhNu+F3n7NTUGmkSkF1MtN/fEONMc4IDwNWhcS5f9zRy\n3cFVQxkXh7UULo5oVz/uiF7eqFG83OlykflneWQF+QKBgQDo2Mq2+s7L8lGoZi1O\nqiyPaT0i1W9WBaEdKD87MYWf5BLfQfRqprTOB8w9OhsvYcMyFIXhd5fYWY9vhMOl\nhT2PpR9FDe/RNoWWPE5yXm3zzdJusMbICoH92eyA8P6aqf3DJMH92xl8rWyVf+VP\ntsPWKxjafQvxgV1Y/2TZzwkf4wKBgQDL/8dxT9r/Ey8iyfo2/8AcHcH1uSetyGN7\n25d5Er2HfX255hOEeR+iFbYiyyuj5vazbo67xVhC3JubIUyiIB0uClEOyPLz+Jy0\nESyl1bTT/LR1Vdr1u1bCPQc3KqN11iHUq/bDlDwCjuThoYhAcG0WplydedpWXSaL\n1MiSTIEOSQKBgQCSbtw1bM+mpPLDo9Z0dULmwblH8dA92fZzvr7dPAyb/DP+IZ1T\ngRmNxIumKae1CZdXJF7551sgHVq+OFFOA9guQRrEM7qQ6OfkDnMLK+WcAOGI6TVp\n0mnjuiwo/uYvYB6Nnc0+F48UwH/cGP2ePwMz6hCMPz3GmKOa96p16+UCHwKBgQCm\nQqek9UVyIIuJGf5g9t32zFX5U9c/7pMOLjFsztZDaAahDSAZFrKuYm2YO+gsZB/q\nq4+O/87oZ24259PSSsQdcvEPUL2aE6R7qYeu/Nas80eMXdXf8rhKBH0t/AVPE59s\n+l5aliS2nQlzzzgB9N8j16CiA97sBm1VB64Udl+0aQKBgADyXPfCO4gTAg7Xtxi1\nJ1gHewh1TrbeRVbMJwPp17jYKywN6vXfXoLjo3p67i3+Z4eM6onRSWIT3OaOD4We\nk96IwbRqccCsH68jX50qZbid2b/UwbSxSbVqQ3e6erDnFjBqzdokFY9gVcRI8LBt\nrH4lqYuJhJbFj0N7hXIiBiCa\n-----END PRIVATE KEY-----\n",
+  "client_email": "autocom@autocom-222515.iam.gserviceaccount.com",
+  "client_id": "114618931164791511463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autocom%40autocom-222515.iam.gserviceaccount.com"
+}
