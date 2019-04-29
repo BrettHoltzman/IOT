@@ -1,0 +1,29 @@
+import RPi.GPIO as GPIO
+import time
+import serial
+
+ser1 = serial.Serial('/dev/ttyS0',115200,timeout = 3)
+LIDAR = ""
+GPS = ""
+
+errorVar = 0 # used to fix issue with indentation after try/ except in receive()
+GREEN = 20
+YELLOW = 21
+RED = 16
+
+def read_lidar():
+    Dist_Total = 0
+    while(Dist_Total == 0):
+        while(ser1.in_waiting >= 9):
+            if((b'Y' == ser1.read()) and ( b'Y' == ser1.read())):
+                Dist_L = ser1.read()
+                Dist_H = ser1.read()
+                Dist_Total = ((ord(Dist_H) * 256) + (ord(Dist_L))) 
+    data_int = int(Dist_Total)
+    data_int = data_int/10 #converting the lidar reading to be rough distance in cm
+    print 'Dist_Total : '+ str(Dist_Total) + 'cm'
+
+if __name__ == '__main__':
+    while True:
+        read_lidar()
+        time.sleep(.5)
